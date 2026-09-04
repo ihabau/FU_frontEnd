@@ -1,28 +1,29 @@
-# MU26 — Frontend Grundkurs
+# WS1 — CSS Syntax
 
-Folkuniversitetet MU26: Basic Frontend Programming exercises.
+> ✅ **Completed** — Folkuniversitetet MU26, Week 35
 
-Course book: https://github.com/linuszocom/mu26-frontend-grundkurs
+## Topic
+CSS syntax fundamentals: selectors, properties, values, and the cascade.
 
-## Branch overview
+## Checklist
+- [x] Understand CSS selector syntax (type, class, ID)
+- [x] Write rulesets with property-value pairs
+- [x] Link external CSS to HTML via `<link>`
+- [x] Use cascade and specificity to resolve conflicts
+- [x] Apply basic typography properties (font-family, font-size, color)
+- [x] Exercise committed and pushed
 
-### Completed ✅
-| Branch | Topic | Status |
-|---|---|---|
-| `completed/w35-css-syntax` | CSS syntax basics | ✅ Done |
-| `completed/w35-first-page` | First HTML page | ✅ Done |
-| `completed/w35-git-exercise` | Git fundamentals | ✅ Done |
+## Study questions
+1. What is the difference between a CSS selector, property, and value?
+2. How does specificity work — which selector wins: `h1`, `.title`, or `#main-title`?
+3. What happens when two rules have the same specificity?
+4. Why do we use external stylesheets instead of inline styles?
+5. What is the cascade in CSS, and why is it called a "cascade"?
 
-### In progress 🔵
-| Branch | Topic | Week |
-|---|---|---|
-| `w36-04-css-arv-hero` | CSS inheritance & Hero section | W36 |
-| `w36-05-flexbox` | Flexbox layout | W36 |
-| `w36-06-css-grid` | CSS Grid | W36 |
-| `w36-07-nav-mq-exam1` | Nav, media queries & Exam 1 | W36 |
-
-## How to use
-```bash
-git checkout <branch-name>
-```
-Each branch has its own `README.md` with checklists and study questions from the teaching material.
+## Key concepts
+| Concept | Definition |
+|---|---|
+| **Selector** | Targets which HTML element(s) to style |
+| **Specificity** | Determines which rule wins when conflicts exist |
+| **Cascade** | Order in which CSS rules are applied |
+| **Inheritance** | Properties passed from parent to child elements |
