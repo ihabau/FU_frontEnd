@@ -1,28 +1,32 @@
-# MU26 — Frontend Grundkurs
+# Git Exercise — Fundamentals
 
-Folkuniversitetet MU26: Basic Frontend Programming exercises.
+> ✅ **Completed** — Folkuniversitetet MU26, Week 35
 
-Course book: https://github.com/linuszocom/mu26-frontend-grundkurs
+## Topic
+Git fundamentals: init, add, commit, push, pull, branch, merge.
 
-## Branch overview
+## Checklist
+- [x] Initialize a local Git repository
+- [x] Stage and commit files with meaningful messages
+- [x] Create and switch between branches
+- [x] Merge branches and resolve conflicts
+- [x] Push to and pull from GitHub remote
+- [x] Exercise committed and pushed
 
-### Completed ✅
-| Branch | Topic | Status |
-|---|---|---|
-| `completed/w35-css-syntax` | CSS syntax basics | ✅ Done |
-| `completed/w35-first-page` | First HTML page | ✅ Done |
-| `completed/w35-git-exercise` | Git fundamentals | ✅ Done |
+## Study questions
+1. What is the difference between `git add` and `git commit`?
+2. Why should commit messages be descriptive?
+3. What does `git push` do vs `git pull`?
+4. How do you create a new branch and switch to it?
+5. What is a merge conflict and how do you resolve it?
+6. What is the purpose of `.gitignore`?
 
-### In progress 🔵
-| Branch | Topic | Week |
-|---|---|---|
-| `w36-04-css-arv-hero` | CSS inheritance & Hero section | W36 |
-| `w36-05-flexbox` | Flexbox layout | W36 |
-| `w36-06-css-grid` | CSS Grid | W36 |
-| `w36-07-nav-mq-exam1` | Nav, media queries & Exam 1 | W36 |
-
-## How to use
-```bash
-git checkout <branch-name>
-```
-Each branch has its own `README.md` with checklists and study questions from the teaching material.
+## Key concepts
+| Concept | Definition |
+|---|---|
+| **Repository** | Folder tracked by Git |
+| **Commit** | Snapshot of your code at a point in time |
+| **Branch** | Parallel version of your code |
+| **Merge** | Combining branches together |
+| **Remote** | GitHub copy of your repository |
+| **Staging area** | Files marked for next commit |
