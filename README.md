@@ -5,6 +5,26 @@
 ## Topic
 Git fundamentals: init, add, commit, push, pull, branch, merge.
 
+Course material: https://github.com/linuszocom/mu26-frontend-grundkurs/tree/main/vecka-35/02-git-github
+
+---
+
+## 🟢 Track A — Attended lesson (Wed 13:00–16:00)
+Do these in order:
+- [ ] `02-git-github/03-ovningar.md` — exercises
+- [ ] `02-git-github/05-sjalvtest.md` — self-test
+- Use `02-git-github/01-teoriguide.md` as reference when stuck
+
+## 🟡 Track B — Missed lesson
+Do the full chain:
+- [ ] `02-git-github/01-teoriguide.md` — theory
+- [ ] `02-git-github/02-visuell.md` — diagrams/mental models
+- [ ] `02-git-github/03-ovningar.md` — exercises
+- [ ] `02-git-github/04-ai-traning.md` — AI code review
+- [ ] `02-git-github/05-sjalvtest.md` — self-test
+
+---
+
 ## Checklist
 - [x] Initialize a local Git repository
 - [x] Stage and commit files with meaningful messages
