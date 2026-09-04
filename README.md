@@ -6,6 +6,7 @@
 CSS Grid — rows and columns for page-level layout.
 
 Course material: https://github.com/linuszocom/mu26-frontend-grundkurs/tree/main/vecka-36/06-css-grid
+Teaching guide: https://regal-choux-578278.netlify.app/v36-t3-linje/ (Linje 47 — Grid departure board)
 
 ---
 
