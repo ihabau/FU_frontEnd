@@ -1,28 +1,29 @@
-# MU26 — Frontend Grundkurs
+# Min första sida — First HTML Page
 
-Folkuniversitetet MU26: Basic Frontend Programming exercises.
+> ✅ **Completed** — Folkuniversitetet MU26, Week 35
 
-Course book: https://github.com/linuszocom/mu26-frontend-grundkurs
+## Topic
+Building your first HTML page with semantic structure.
 
-## Branch overview
+## Checklist
+- [x] Create valid HTML5 document structure
+- [x] Use semantic tags: `<header>`, `<main>`, `<footer>`, `<nav>`
+- [x] Add headings, paragraphs, and links
+- [x] Insert images with descriptive `alt` text
+- [x] Validate HTML structure
+- [x] Exercise committed and pushed
 
-### Completed ✅
-| Branch | Topic | Status |
-|---|---|---|
-| `completed/w35-css-syntax` | CSS syntax basics | ✅ Done |
-| `completed/w35-first-page` | First HTML page | ✅ Done |
-| `completed/w35-git-exercise` | Git fundamentals | ✅ Done |
+## Study questions
+1. What is the difference between `<head>` and `<header>`?
+2. Why must every `<img>` have an `alt` attribute?
+3. What does "semantic HTML" mean and why does it matter?
+4. What is the role of `<!DOCTYPE html>`?
+5. How do you link an external CSS file to your HTML?
 
-### In progress 🔵
-| Branch | Topic | Week |
-|---|---|---|
-| `w36-04-css-arv-hero` | CSS inheritance & Hero section | W36 |
-| `w36-05-flexbox` | Flexbox layout | W36 |
-| `w36-06-css-grid` | CSS Grid | W36 |
-| `w36-07-nav-mq-exam1` | Nav, media queries & Exam 1 | W36 |
-
-## How to use
-```bash
-git checkout <branch-name>
-```
-Each branch has its own `README.md` with checklists and study questions from the teaching material.
+## Key concepts
+| Concept | Definition |
+|---|---|
+| **Semantic HTML** | Choosing tags based on meaning, not appearance |
+| **DOCTYPE** | Tells the browser which HTML version to use |
+| **Attributes** | Extra info on tags (e.g., `class`, `id`, `src`, `alt`) |
+| **Nesting** | Elements placed inside other elements |
