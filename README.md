@@ -5,6 +5,26 @@
 ## Topic
 CSS syntax fundamentals: selectors, properties, values, and the cascade.
 
+Course material: https://github.com/linuszocom/mu26-frontend-grundkurs/tree/main/vecka-35/03-css-box-model
+
+---
+
+## 🟢 Track A — Attended lesson (Fri 13:00–16:00)
+Do these in order:
+- [ ] `03-css-box-model/03-ovningar.md` — exercises
+- [ ] `03-css-box-model/05-sjalvtest.md` — self-test
+- Use `03-css-box-model/01-teoriguide.md` as reference when stuck
+
+## 🟡 Track B — Missed lesson
+Do the full chain:
+- [ ] `03-css-box-model/01-teoriguide.md` — theory
+- [ ] `03-css-box-model/02-visuell.md` — diagrams/mental models
+- [ ] `03-css-box-model/03-ovningar.md` — exercises
+- [ ] `03-css-box-model/04-ai-traning.md` — AI code review
+- [ ] `03-css-box-model/05-sjalvtest.md` — self-test
+
+---
+
 ## Checklist
 - [x] Understand CSS selector syntax (type, class, ID)
 - [x] Write rulesets with property-value pairs
